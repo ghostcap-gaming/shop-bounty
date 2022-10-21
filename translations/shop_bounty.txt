@@ -1,0 +1,117 @@
+"Phrases"
+{
+	"shop display string"
+	{
+		"en"		"Bounties"
+	}
+	
+	"choose bounty player menu title"
+	{
+		"en"		"Choose a player to set a bounty on:"
+	}
+	
+	"bounty killed message all"
+	{
+		"#format"	"{1:N},{2:s},{3:N}"
+		"en"		"{1} was awarded {2} credits for securing {3} bounty!"
+	}
+	
+	"client disconnect after chosen"
+	{
+		"en"		"Bounty player has disconnected, aborting bounty!"
+	}
+	
+	"refund submitter bounty disconnect"
+	{
+		"#format"	"{1:s}"
+		"en"		"You got your {1} credits back because your bounty has disconnect."
+	}
+	
+	"refund submitter plugin unload"
+	{
+		"#format"	"{1:s}"
+		"en"		"You got your {1} credits back because the plugin has stopped."
+	}
+	
+	"choose reward menu title"
+	{
+		"#format"	"{1:N}"
+		"en"		"Choose how much to credits you want to put on {1} head:"
+	}
+
+	"submitter alert bounty confirmed"
+	{
+		"#format"	"{1:N},{2:s},{3:N}"
+		"en"		"{1} claimed your {2} credits by securing your bounty ({3})!"
+	}
+
+	"bounty list menu title"	
+	{
+		"#format"	"{1:d}"
+		"en"		"Bounties: ({1}%% reward tax)"
+	}
+
+	"bounty options menu title"
+	{
+		"en"		"Choose what you want to do:"
+	}
+
+	"bounty list"
+	{
+		"en"		"Bounty List"
+	}
+	
+	"submit bounty"
+	{
+		"en"		"Submit Bounty"
+	}
+
+	"exit"
+	{
+		"en"		"Exit"
+	}
+	
+	"back"
+	{
+		"en"		"Back"
+	}
+
+	"no players in game"
+	{
+		"en"		"There are no players in-game!"
+	}
+
+	"new bounty message all"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"New bounty on {1}, {2} Credits for his head!"
+	}
+	
+	"no bounties"
+	{
+		"en"		"No bounties has been submitted!"
+	}
+	
+	"bounty list menu item"
+	{
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"{1} head wanted for {2} credits! (submitter: {3})"
+	}
+	
+	"insufficient credits"
+	{
+		"en"		"You don't have enough credits to that!"
+	}
+	
+	"hud message target"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} placed {2} credits on your head, watch out!"
+	}
+	
+	"bounty not claimed min players"
+	{
+		"#format"	"{1:d}"
+		"en"		"Bounty was not claimed because you need to have {1} players in-game to claim bounties!"
+	}
+}
